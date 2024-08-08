@@ -2,6 +2,8 @@
 
 The Weather Beats application is an innovative Next.js project that combines weather forecasting with music recommendations. By entering a city name, users can receive current weather information along with a curated list of songs that match the weather mood.
 
+## Link
+
 ## Features
 
 - **Weather Information**: Displays current weather conditions including temperature, weather conditions, and an icon representation.
@@ -43,9 +45,7 @@ To use the Weather Muse application:
 2. Click the "Click Me" button to fetch the weather and music recommendations.
 3. View the weather information displayed along with a list of recommended tracks.
 
-
 ![Screenshot 2024-08-07 231021](https://github.com/user-attachments/assets/18b0bd1e-4958-4dec-8cf9-66cf92ebad89)
-
 
 ## Built With
 

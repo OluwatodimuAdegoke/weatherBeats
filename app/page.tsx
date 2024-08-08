@@ -69,7 +69,9 @@ export default function Home() {
       {loading && <LoadingSpinner size={100} />}
       <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
         {tracks.length > 0 ? (
-          tracks.map((track: Track) => <TrackCard track={track} />)
+          tracks.map((track: Track, key) => (
+            <TrackCard track={track} key={key} />
+          ))
         ) : (
           <></>
         )}
