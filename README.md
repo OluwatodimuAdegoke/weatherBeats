@@ -43,6 +43,10 @@ To use the Weather Muse application:
 2. Click the "Click Me" button to fetch the weather and music recommendations.
 3. View the weather information displayed along with a list of recommended tracks.
 
+
+![Screenshot 2024-08-07 231021](https://github.com/user-attachments/assets/18b0bd1e-4958-4dec-8cf9-66cf92ebad89)
+
+
 ## Built With
 
     Next.js
