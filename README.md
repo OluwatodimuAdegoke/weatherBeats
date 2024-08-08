@@ -1,6 +1,6 @@
-# Weather Muse Application
+# Weather Beats Application
 
-The Weather Muse application is an innovative Next.js project that combines weather forecasting with music recommendations. By entering a city name, users can receive current weather information along with a curated list of songs that match the weather mood.
+The Weather Beats application is an innovative Next.js project that combines weather forecasting with music recommendations. By entering a city name, users can receive current weather information along with a curated list of songs that match the weather mood.
 
 ## Features
 
@@ -51,8 +51,6 @@ To use the Weather Muse application:
     Gemini Api
     Spotify Api
     OpenWeatherMap Api
-
-![Screenshot 2024-06-25 184907](https://github.com/OluwatodimuAdegoke/weatherMuse/assets/22406840/c29dc079-58fc-4c19-9e9e-2f376692758f)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
