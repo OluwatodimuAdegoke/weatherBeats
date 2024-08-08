@@ -4,6 +4,8 @@ The Weather Beats application is an innovative Next.js project that combines wea
 
 ## Link
 
+https://weather-beats-pi.vercel.app
+
 ## Features
 
 - **Weather Information**: Displays current weather conditions including temperature, weather conditions, and an icon representation.
