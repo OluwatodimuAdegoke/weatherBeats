@@ -1,67 +1,62 @@
-# Weather Beats Application
+# WeatherBeats
 
-The Weather Beats application is an innovative Next.js project that combines weather forecasting with music recommendations. By entering a city name, users can receive current weather information along with a curated list of songs that match the weather mood.
+WeatherBeats is a unique application that combines weather data with musical elements to create a dynamic and engaging user experience. This project leverages weather information to influence and generate music, providing users with an innovative way to interact with weather forecasts.
 
-## Link
+## Technologies Used
 
-https://weather-beats-pi.vercel.app
+- **Next.js**: A powerful React framework that enables server-side rendering and static site generation, enhancing performance and SEO capabilities for web applications.
+
+- **Google Gemini API**: This API provides advanced AI capabilities to analyze and interpret weather data, contributing to the music generation process based on current weather conditions.
+
+- **Spotify API**: Utilized to access a vast library of music, allowing users to play tracks that correspond with the weather data received, creating a personalized musical experience.
+
+- **OpenWeatherMap API**: This API supplies real-time weather data, which is essential for the application's core functionality, enabling users to receive accurate weather updates.
+
+- **Shadcn UI**: A UI component library that simplifies the design process, providing pre-built components that enhance the user interface of the application.
+
+- **Lucide**: A set of open-source icons that can be easily integrated into the application, helping to create a visually appealing user interface.
 
 ## Features
 
-- **Weather Information**: Displays current weather conditions including temperature, weather conditions, and an icon representation.
-- **Music Recommendations**: Suggests music tracks based on the current weather conditions of the specified city.
-- **User Input**: Allows users to enter the name of the city for which they want weather information and music recommendations.
+- Real-time weather data integration
+- Music generation based on weather conditions
+- User-friendly interface
+- Support for multiple locations
 
-## Installation and Setup
+## Installation
 
-1. Clone the repository:
+To get started with WeatherBeats, follow these steps:
+
+1. **Clone the repository:**
+
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/OluwatodimuAdegoke/weatherBeats.git
    ```
-2. Navigate to the project directory:
+
+2. **Navigate to the project directory:**
+
    ```bash
-        cd weather-muse
+   cd weatherBeats
    ```
-3. Install dependencies:
+
+3. **Install the required dependencies: Ensure you have Node.js installed, then run:**
+
    ```bash
-       npm install
+   npm install
    ```
-4. Create a .env file in the root directory and add your API keys:
-   ```bash
-     SPOTIFY_ID=your_spotify_id
-     SPOTIFY_SECRET=your_spotify_secret
-     WEATHER_API=your_openweathermap_api_key
-     GEMINI_API=your_google_generative_ai_key
-   ```
-5. Start the application:
-   ```bash
-    ng serve
-   ```
-6. Open your browser and navigate to http://localhost:4200.
 
 ## Usage
 
-To use the Weather Muse application:
+To run the application, execute the following command in your terminal:
 
-1. Enter the name of your current city in the input field.
-2. Click the "Click Me" button to fetch the weather and music recommendations.
-3. View the weather information displayed along with a list of recommended tracks.
+```bash
+npm start
+```
 
-![Screenshot 2024-08-07 231021](https://github.com/user-attachments/assets/18b0bd1e-4958-4dec-8cf9-66cf92ebad89)
-
-## Built With
-
-    Next.js
-    Shadcn/UI
-    Lucide
-    Gemini Api
-    Spotify Api
-    OpenWeatherMap Api
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This will start the application and open it in your default web browser. You can then enter a location to see the weather and hear the corresponding music.
 
 ## Acknowledgments
 
 OpenWeatherMap API for providing weather data.
 Spotify API for music recommendations.
+Angular team for the Angular framework.
