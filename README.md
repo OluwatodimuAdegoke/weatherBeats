@@ -23,6 +23,9 @@ WeatherBeats is a unique application that combines weather data with musical ele
 - User-friendly interface
 - Support for multiple locations
 
+![Screenshot 2024-08-07 231021](https://github.com/user-attachments/assets/45aaac0a-895c-43a1-8b6d-d2440eb9187c)
+
+
 ## Installation
 
 To get started with WeatherBeats, follow these steps:
