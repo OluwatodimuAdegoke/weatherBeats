@@ -2,6 +2,10 @@
 
 WeatherBeats is a unique application that combines weather data with musical elements to create a dynamic and engaging user experience. This project leverages weather information to influence and generate music, providing users with an innovative way to interact with weather forecasts.
 
+## Website
+
+https://weather-beats-pi.vercel.app/
+
 ## Technologies Used
 
 - **Next.js**: A powerful React framework that enables server-side rendering and static site generation, enhancing performance and SEO capabilities for web applications.
