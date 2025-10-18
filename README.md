@@ -1,4 +1,4 @@
-#Note: The Recommendation API from Spotify has been deprecated
+# Note: The Recommendation API from Spotify has been deprecated
 
 # WeatherBeats
 
