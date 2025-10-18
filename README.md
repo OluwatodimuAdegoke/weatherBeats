@@ -1,10 +1,8 @@
+#Note: The Recommendation API from Spotify has been deprecated
+
 # WeatherBeats
 
 WeatherBeats is a unique application that combines weather data with musical elements to create a dynamic and engaging user experience. This project leverages weather information to influence and generate music, providing users with an innovative way to interact with weather forecasts.
-
-## Website
-
-https://weather-beats-pi.vercel.app/
 
 ## Technologies Used
 
